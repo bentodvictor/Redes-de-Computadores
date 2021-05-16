@@ -1,2 +1,2 @@
-# Redes-de-Computadores
-8º Semestre do curso de Engenharia da Computação - UFSM
+# Computer-Network
+Computer network materials from 8th Semester of the Computer Engineering course - UFSM
